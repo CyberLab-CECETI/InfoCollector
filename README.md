@@ -45,6 +45,10 @@ fdisk: cannot open /dev/nvme0n1: Permission denied
 
 Et pots connectar a la màquina amb SSH i utilitzar **wget** per descarregar l'script. 
 
+```
+wget https://raw.githubusercontent.com/CyberLab-CECETI/InfoCollector/main/InfoCollector.sh
+```
+
 #### Com puc extreure l'informe?
 
 Si has executat l'script amb SSH, pots fer un cat del fitxer *informe.txt* i copiar la sortida. Si no, es pot copiar el fitxer amb la comanda scp. 
