@@ -27,7 +27,7 @@ Donem el permís d'execució a l'script. L'**script necessita permisos d'adminis
 
 ![App Screenshot](https://i.ibb.co/JznNDDK/Info-Collector2.png)
 
-![App Screenshot](https://i.ibb.co/mBnvqgr/Infocollector.png)
+![App Screenshot](https://i.ibb.co/tDs0Tn0/2024-04-30-18-17.png)
 
 
 ## FAQ
